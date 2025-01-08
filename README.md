@@ -79,11 +79,7 @@
 ###
 
 <h3 align="left">Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://tasneemsahat.blogspot.com" target="_blank">tasneemsahat.blogspot.com</a> as well as on <a href="https://medium.com/@mdsahat6397" target="_blank">Medium</a>.</h3>
-###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mdsahat6397&theme=moltack" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
