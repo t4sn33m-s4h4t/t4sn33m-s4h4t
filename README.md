@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/t4sn33m-s4h4t/t4sn33m-s4h4t/refs/heads/main/bannerImg.jpg"  />
+  <img height="150" src="https://raw.githubusercontent.com/t4sn33m-s4h4t/t4sn33m-s4h4t/refs/heads/main/bannerImg.jpg"  />
 </div>
 
 ###
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">⚙️Technologies & Tools</h3>
+<h1 align="left">⚙️Technologies & Tools</h1>
 
 ###
 
@@ -74,12 +74,17 @@
 
 ###
 
-<h3 align="left">✍ Blog & Writing</h3>
+<h1 align="left">✍ Blog & Writing</h1>
 
 ###
 
-<h3 align="left">Apart from coding, I also maintain a blog - you can find my articles on my website at <a href="https://tasneemsahat.blogspot.com" target="_blank">tasneemsahat.blogspot.com</a> as well as on <a href="https://medium.com/@mdsahat6397" target="_blank">Medium</a>.</h3>
+<h3 align="left">Apart from coding, I also maintain a blog - you can find my articles on my website at tasneemsahat.blogspot.com as well as on Medium.</h3>
 
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mdsahat6397&theme=moltack" alt="Layout with last medium posts"  />
+</div>
 
 ###
 
@@ -87,6 +92,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=t4sn33m-s4h4t&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t4sn33m-s4h4t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true&order=2" height="180" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=t4sn33m-s4h4t&theme=matrix&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t4sn33m-s4h4t&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=t4sn33m-s4h4t&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
