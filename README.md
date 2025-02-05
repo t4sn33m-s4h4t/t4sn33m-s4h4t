@@ -45,7 +45,15 @@
 
 
 <h4 align="left">Call me directly: +8801735746159</h4>
+<button onclick="copyNumber()">Copy</button>
 
+<script>
+  function copyNumber() {
+    navigator.clipboard.writeText("+8801735746159").then(() => {
+      alert("Number copied to clipboard!");
+    });
+  }
+</script>
 
 ###
 
